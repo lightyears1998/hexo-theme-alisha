@@ -33,6 +33,11 @@
 
 参考市面上比较流行的 Hexo 主题。
 
+- hexo-theme-matery 团子的
+- hexo-theme-typing 光滑的
+- <https://lhcfl.github.io/> 很简洁
+- <corhow.github.io> 很有趣
+
 ## TODO
 
 - 收集适合使用的开源字体
