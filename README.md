@@ -1,5 +1,11 @@
 # Hexo Theme Alisha
 
+Hexo theme used in @lightyears1998's blog about techs.
+
+Under active (perhaps) developments!
+
+<!--
+
 ## 特点
 
 - 开门见山，不要做多余的动画。（除非是在博客中的一些特别的小区域。）
@@ -44,3 +50,5 @@
   - 为知笔记上的日记
   - Notebook
   - OneDrive/Art
+
+-->
