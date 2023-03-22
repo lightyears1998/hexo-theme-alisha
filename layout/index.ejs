@@ -1,0 +1,11 @@
+<%
+    console.log(page)
+%>
+
+<!DOCTYPE html>
+<body>
+    <h1><%= page.posts.data[0].title %></h1>
+    <article>
+        <%- page.posts.data[0].content %>
+    </article>
+</body>
