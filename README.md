@@ -1,10 +1,22 @@
 # Hexo Theme Alisha
 
-Hexo theme used in @lightyears1998's blog about techs.
+@lightyears1998's 的技术博客主题。
 
-Under active (perhaps) developments!
+正在活跃开发中！（或许吧 >_<）
 
 <!--
+
+可以参考的博客：
+
+https://www.ruanyifeng.com/blog/
+https://lvwenhan.com/
+https://www.liuchuo.net/
+https://2heng.xin/
+https://licoy.cn/
+https://github.com/ZEROKISEKI/hexo-theme-gal
+http://www.monreeing.com/
+
+还可以在 Hexo Showcase 查找更多主题内容。
 
 ## 特点
 
