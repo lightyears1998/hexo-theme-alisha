@@ -15,6 +15,7 @@ https://2heng.xin/
 https://licoy.cn/
 https://github.com/ZEROKISEKI/hexo-theme-gal
 http://www.monreeing.com/
+https://blog.stephencleary.com/2013/04/ui-guidelines-for-async.html
 
 还可以在 Hexo Showcase 查找更多主题内容。
 
